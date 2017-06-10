@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="javaee7-websocket-chat:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="javaee7-websocket-chat-1.0.0.war">
+      <element id="artifact" artifact-name="javaee7-websocket-chat:war exploded" />
+    </root>
+  </artifact>
+</component>
